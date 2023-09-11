@@ -1,0 +1,11 @@
+Model Information:
+* title:	bbs-ri-a_r20
+* source:	https://sketchfab.com/3d-models/bbs-ri-a-r20-c81e5140f42341f3ad46e3f2ab580eb8
+* author:	petrovskydsg (https://sketchfab.com/petrovskydsg)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "bbs-ri-a_r20" (https://sketchfab.com/3d-models/bbs-ri-a-r20-c81e5140f42341f3ad46e3f2ab580eb8) by petrovskydsg (https://sketchfab.com/petrovskydsg) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
